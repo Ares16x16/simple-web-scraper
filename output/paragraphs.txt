@@ -1,0 +1,21 @@
+The platform where the machine learning community collaborates on models, datasets, and applications.
+Create, discover and collaborate on ML better.
+Host and collaborate on unlimited models, datasets and applications.
+With the HF Open source stack.
+Text, image, video, audio or even 3D.
+Share your work with the world and build your ML profile.
+We provide paid Compute and Enterprise solutions.
+Deploy on optimized
+Starting at $0.60/hour for GPU
+Give your team the most advanced platform to build AI with enterprise-grade security, access controls and
+						dedicated support.
+Starting at $20/user/month
+We are building the foundation of ML tooling with the community.
+State-of-the-art ML for Pytorch, TensorFlow, and JAX.
+State-of-the-art diffusion models for image and audio generation in PyTorch.
+Simple, safe way to store and distribute neural networks weights safely and quickly.
+Client library for the HF Hub: manage repositories from your Python runtime.
+Fast tokenizers, optimized for both research and production.
+Parameter efficient finetuning methods for large models
+Community library to run pretrained models from Transformers in your browser.
+State-of-the-art computer vision models, layers, optimizers, training/evaluation, and utilities.
